@@ -13,5 +13,30 @@
     "title": "Мужские Кроссовки Nike Blazer Low Leather",
     "price": "76.99$",
     "imageUrl": "/img/sneakers/3.png"
+  },
+  {
+    "title": "Мужские Кроссовки Under Armour Curry 8",
+    "price": "35.99$",
+    "imageUrl": "/img/sneakers/4.png"
+  },
+  {
+    "title": "Мужские Кроссовки Nike Kyrie 7",
+    "price": "45.99$",
+    "imageUrl": "/img/sneakers/5.png"
+  },
+  {
+    "title": "Мужские Кроссовки Nike LeBron XVIII",
+    "price": "55.99$",
+    "imageUrl": "/img/sneakers/6.png"
+  },
+  {
+    "title": "Мужские Кроссовки Nike Lebron XVIII Low",
+    "price": "99.99$",
+    "imageUrl": "/img/sneakers/7.png"
+  },
+  {
+    "title": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+    "price": "180.99$",
+    "imageUrl": "/img/sneakers/8.png"
   }
 ]
